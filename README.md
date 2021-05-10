@@ -1,0 +1,2 @@
+# BucketList
+An iOS application that allows the user to build a private list of places on a map of the world that they plan on visiting. The application stores private user data safely onto the device with userDefaults and utilizes TouchID/FaceID for authenticated user access. Apple Maps is embedded into the application using MapKit. Additionally, nearby locations are presented through secure Data writing to the app from Wikipedia.org.
